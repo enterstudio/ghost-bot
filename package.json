@@ -22,7 +22,7 @@
     "ghost": "bin/ghost"
   },
   "dependencies": {
-    "aws-sdk": "^2.72.0",
+    "aws-sdk": "^2.814.0",
     "claudia-bot-builder": "^2.15.0",
     "lodash": "^4.17.4",
     "node-fetch": "^1.7.1",
