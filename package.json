@@ -24,7 +24,7 @@
   "dependencies": {
     "aws-sdk": "^2.72.0",
     "claudia-bot-builder": "^2.15.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.17",
     "node-fetch": "^1.7.1",
     "yargs": "^8.0.2",
     "yargs-promise": "1.1.0"
